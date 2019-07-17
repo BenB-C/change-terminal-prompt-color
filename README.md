@@ -1,6 +1,7 @@
 # change-terminal-prompt-color
 
 `echo export PS1="\[\e[1;36m\][\W]\$ \[\e[0m\]"' >> ~/.bash_profile`
+`source ~/.bash_profile`
 
 31m: Red <br>
 32m: Green <br>
